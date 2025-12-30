@@ -71,6 +71,7 @@ class MainWindow(QMainWindow):
         self.method_combo = QComboBox()
         self.method_combo.addItem("🤖 LLM逐级分类", "llm")
         self.method_combo.addItem("🔍 向量检索分类", "embedding")
+        self.method_combo.addItem("🎯 全文LLM分类", "fulltext_llm")
         self.method_combo.setFixedHeight(45)
         self.method_combo.setMinimumWidth(180)
         self.method_combo.currentIndexChanged.connect(self.on_method_changed)
@@ -516,7 +517,12 @@ class MainWindow(QMainWindow):
             return
         
         # 获取当前选择的分类方法
-        method_name = "LLM逐级分类" if self.classify_method == "llm" else "向量检索分类"
+        method_names = {
+            "llm": "LLM逐级分类",
+            "embedding": "向量检索分类",
+            "fulltext_llm": "全文LLM分类"
+        }
+        method_name = method_names.get(self.classify_method, "未知方法")
         
         # 显示进度提示
         reply = QMessageBox.question(
@@ -534,8 +540,23 @@ class MainWindow(QMainWindow):
             self.classify_btn.setEnabled(False)
             
             # 根据选择的分类方法调用不同的分类函数
-            use_embedding = (self.classify_method == "embedding")
-            results = self.classifier.classify_files(self.uploaded_files, use_embedding=use_embedding)
+            results = {}
+            if self.classify_method == "fulltext_llm":
+                # 使用全文LLM分类方法
+                for file_path in self.uploaded_files:
+                    result = self.classifier.classify_with_fulltext_llm(file_path)
+                    if result:
+                        # result是dict格式: {'category_path': '...', 'reason': '...', 'similarity_score': ...}
+                        results[file_path] = result['category_path']
+                        # 如果有相似度分数，也保存
+                        if result.get('similarity_score') is not None:
+                            results[file_path] = (result['category_path'], result['similarity_score'])
+                    else:
+                        results[file_path] = "其他/未分类"
+            else:
+                # 使用原有的分类方法
+                use_embedding = (self.classify_method == "embedding")
+                results = self.classifier.classify_files(self.uploaded_files, use_embedding=use_embedding)
             
             # 保存分类结果到文件管理器
             for file_path, result in results.items():

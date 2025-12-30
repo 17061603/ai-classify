@@ -1,82 +1,212 @@
 {
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]+VCW系统核级水泵技术规格书（B）.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]+VCW系统核级水泵技术规格书（B）.pdf",
+    "category": "泵及泵配件/离心泵/其他离心泵",
+    "file_name": "[非密]+VCW系统核级水泵技术规格书（B）.pdf",
+    "similarity_score": 0.8189470171928406
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]-反应堆冷却剂泵设备技术规格书.doc": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]-反应堆冷却剂泵设备技术规格书.doc",
+    "category": "动力设备及配件/反应堆冷却剂系统主设备/反应堆冷却剂泵",
+    "file_name": "[非密]-反应堆冷却剂泵设备技术规格书.doc",
+    "similarity_score": 0.923598438501358
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]05-高温高压屏蔽泵低振动水力部件优化分析技术要求(Rev.A)20230712-TM(1).doc": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]05-高温高压屏蔽泵低振动水力部件优化分析技术要求(Rev.A)20230712-TM(1).doc",
+    "category": "泵及泵配件/离心泵/离心泵配件",
+    "file_name": "[非密]05-高温高压屏蔽泵低振动水力部件优化分析技术要求(Rev.A)20230712-TM(1).doc",
+    "similarity_score": 0.8236538469791412
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]05-高温高压屏蔽泵低振动电机电磁方案优化分析技术要求20230712(1).doc": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]05-高温高压屏蔽泵低振动电机电磁方案优化分析技术要求20230712(1).doc",
+    "category": "泵及泵配件/离心泵/离心泵配件",
+    "file_name": "[非密]05-高温高压屏蔽泵低振动电机电磁方案优化分析技术要求20230712(1).doc",
+    "similarity_score": 0.8222160935401917
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]05-高温高压屏蔽泵电磁轴承技术研究采购技术规格书-20230712(1).doc": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]05-高温高压屏蔽泵电磁轴承技术研究采购技术规格书-20230712(1).doc",
+    "category": "泵及泵配件/离心泵/离心泵配件",
+    "file_name": "[非密]05-高温高压屏蔽泵电磁轴承技术研究采购技术规格书-20230712(1).doc",
+    "similarity_score": 0.8283402323722839
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]ACP1200-3-CG-027给水泵采购技术要求.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]ACP1200-3-CG-027给水泵采购技术要求.pdf",
+    "category": "泵及泵配件/离心泵/多级离心泵",
+    "file_name": "[非密]ACP1200-3-CG-027给水泵采购技术要求.pdf",
+    "similarity_score": 0.8098521828651428
+  },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]ACP1200-3-CG-044冷却水泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]ACP1200-3-CG-044冷却水泵采购技术要求.pdf",
     "category": "泵及泵配件/离心泵/其他离心泵",
-    "file_name": "[非密]ACP1200-3-CG-044冷却水泵采购技术要求.pdf"
+    "file_name": "[非密]ACP1200-3-CG-044冷却水泵采购技术要求.pdf",
+    "similarity_score": 0.8520658910274506
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-021-CG-005安注计量泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-021-CG-005安注计量泵采购技术要求.pdf",
     "category": "泵及泵配件/往复泵/柱塞泵",
-    "file_name": "[非密]JDYYD-021-CG-005安注计量泵采购技术要求.pdf"
+    "file_name": "[非密]JDYYD-021-CG-005安注计量泵采购技术要求.pdf",
+    "similarity_score": 0.8379452526569366
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-021-CG-007冷却剂循环泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-021-CG-007冷却剂循环泵采购技术要求.pdf",
     "category": "泵及泵配件/离心泵/其他离心泵",
-    "file_name": "[非密]JDYYD-021-CG-007冷却剂循环泵采购技术要求.pdf"
+    "file_name": "[非密]JDYYD-021-CG-007冷却剂循环泵采购技术要求.pdf",
+    "similarity_score": 0.8576333820819855
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-021-CG-013补水增压泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-021-CG-013补水增压泵采购技术要求.pdf",
-    "category": "泵及泵配件/离心泵/单级离心泵",
-    "file_name": "[非密]JDYYD-021-CG-013补水增压泵采购技术要求.pdf"
+    "category": "通用仪器仪表/试验机/试验机附件",
+    "file_name": "[非密]JDYYD-021-CG-013补水增压泵采购技术要求.pdf",
+    "similarity_score": 0.8369483947753906
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-022-CG-001真空泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-022-CG-001真空泵采购技术要求.pdf",
-    "category": "泵及泵配件/其他泵及泵配件/其他各种泵",
-    "file_name": "[非密]JDYYD-022-CG-001真空泵采购技术要求.pdf"
+    "category": "通用设备及配件/真空获得设备/真空泵",
+    "file_name": "[非密]JDYYD-022-CG-001真空泵采购技术要求.pdf",
+    "similarity_score": 0.8478297889232635
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-041-CG-011增压泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYD-041-CG-011增压泵采购技术要求.pdf",
-    "category": "泵及泵配件/其他泵及泵配件/其他各种泵",
-    "file_name": "[非密]JDYYD-041-CG-011增压泵采购技术要求.pdf"
+    "category": "泵及泵配件/离心泵/其他离心泵",
+    "file_name": "[非密]JDYYD-041-CG-011增压泵采购技术要求.pdf",
+    "similarity_score": 0.8382360935211182
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYE-036-CG-002二氧化碳辅助增压泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]JDYYE-036-CG-002二氧化碳辅助增压泵采购技术要求.pdf",
-    "category": "泵及泵配件/往复泵/柱塞泵",
-    "file_name": "[非密]JDYYE-036-CG-002二氧化碳辅助增压泵采购技术要求.pdf"
+    "category": "通用仪器仪表/试验机/试验机附件",
+    "file_name": "[非密]JDYYE-036-CG-002二氧化碳辅助增压泵采购技术要求.pdf",
+    "similarity_score": 0.8183699548244476
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]LWK4A-1-SB-022屏蔽泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]LWK4A-1-SB-022屏蔽泵采购技术要求.pdf",
     "category": "泵及泵配件/离心泵/其他离心泵",
-    "file_name": "[非密]LWK4A-1-SB-022屏蔽泵采购技术要求.pdf"
+    "file_name": "[非密]LWK4A-1-SB-022屏蔽泵采购技术要求.pdf",
+    "similarity_score": 0.8482289612293243
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]LWK5H-1-148凝水泵采购技术规格书.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]LWK5H-1-148凝水泵采购技术规格书.pdf",
     "category": "泵及泵配件/离心泵/多级离心泵",
-    "file_name": "[非密]LWK5H-1-148凝水泵采购技术规格书.pdf"
+    "file_name": "[非密]LWK5H-1-148凝水泵采购技术规格书.pdf",
+    "similarity_score": 0.8086727559566498
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]LWT2LW-SB17-001泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]LWT2LW-SB17-001泵采购技术要求.pdf",
     "category": "泵及泵配件/离心泵/其他离心泵",
-    "file_name": "[非密]LWT2LW-SB17-001泵采购技术要求.pdf"
+    "file_name": "[非密]LWT2LW-SB17-001泵采购技术要求.pdf",
+    "similarity_score": 0.7989826202392578
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]QBGCA-CG-046C给水泵组采购技术规格书.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]QBGCA-CG-046C给水泵组采购技术规格书.pdf",
     "category": "泵及泵配件/离心泵/多级离心泵",
-    "file_name": "[非密]QBGCA-CG-046C给水泵组采购技术规格书.pdf"
+    "file_name": "[非密]QBGCA-CG-046C给水泵组采购技术规格书.pdf",
+    "similarity_score": 0.7970278859138489
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]QBGCA-CG-052屏蔽泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]QBGCA-CG-052屏蔽泵采购技术要求.pdf",
-    "category": "泵及泵配件/其他泵及泵配件/其他各种泵",
-    "file_name": "[非密]QBGCA-CG-052屏蔽泵采购技术要求.pdf"
+    "category": "动力设备及配件/核辅助系统设备/核辅助系统设备配件",
+    "file_name": "[非密]QBGCA-CG-052屏蔽泵采购技术要求.pdf",
+    "similarity_score": 0.8504892289638519
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]QBGCA-CG-176C机械循环泵采购技术规格书-C版.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]QBGCA-CG-176C机械循环泵采购技术规格书-C版.pdf",
     "category": "泵及泵配件/离心泵/其他离心泵",
-    "file_name": "[非密]QBGCA-CG-176C机械循环泵采购技术规格书-C版.pdf"
+    "file_name": "[非密]QBGCA-CG-176C机械循环泵采购技术规格书-C版.pdf",
+    "similarity_score": 0.84176966547966
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]SGKN-SB3-001循环泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]SGKN-SB3-001循环泵采购技术要求.pdf",
     "category": "泵及泵配件/离心泵/其他离心泵",
-    "file_name": "[非密]SGKN-SB3-001循环泵采购技术要求.pdf"
+    "file_name": "[非密]SGKN-SB3-001循环泵采购技术要求.pdf",
+    "similarity_score": 0.8393201231956482
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]SJZB-2-CG-012主泵采购技术要求.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]SJZB-2-CG-012主泵采购技术要求.pdf",
-    "category": "泵及泵配件/离心泵/其他离心泵",
-    "file_name": "[非密]SJZB-2-CG-012主泵采购技术要求.pdf"
+    "category": "通用仪器仪表/工业自动化系统及配件/其他工业自动化系统",
+    "file_name": "[非密]SJZB-2-CG-012主泵采购技术要求.pdf",
+    "similarity_score": 0.8125894665718079
   },
   "/mnt/d/pythonproject/ai-classify/测试/[非密]SJZB-4-CG-002高压大流量水泵及其附件采购技术规格书.pdf": {
     "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]SJZB-4-CG-002高压大流量水泵及其附件采购技术规格书.pdf",
     "category": "泵及泵配件/离心泵/多级离心泵",
-    "file_name": "[非密]SJZB-4-CG-002高压大流量水泵及其附件采购技术规格书.pdf"
+    "file_name": "[非密]SJZB-4-CG-002高压大流量水泵及其附件采购技术规格书.pdf",
+    "similarity_score": 0.8313679993152618
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-013-SB16-001空气压缩机采购技术要求.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-013-SB16-001空气压缩机采购技术要求.pdf",
+    "category": "通用设备及配件/压缩机/其他压缩机",
+    "file_name": "[非密]YFJD2-013-SB16-001空气压缩机采购技术要求.pdf",
+    "similarity_score": 0.8349944949150085
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-013-SB6-001B补水泵采购技术要求.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-013-SB6-001B补水泵采购技术要求.pdf",
+    "category": "泵及泵配件/离心泵/单级离心泵",
+    "file_name": "[非密]YFJD2-013-SB6-001B补水泵采购技术要求.pdf",
+    "similarity_score": 0.8278773427009583
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-013-SB9-001给水泵采购技术要求.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-013-SB9-001给水泵采购技术要求.pdf",
+    "category": "泵及泵配件/离心泵/多级离心泵",
+    "file_name": "[非密]YFJD2-013-SB9-001给水泵采购技术要求.pdf",
+    "similarity_score": 0.8228718042373657
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-014-SB5-001B电动往复泵采购技术要求.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-014-SB5-001B电动往复泵采购技术要求.pdf",
+    "category": "泵及泵配件/往复泵/其他往复泵",
+    "file_name": "[非密]YFJD2-014-SB5-001B电动往复泵采购技术要求.pdf",
+    "similarity_score": 0.8279308974742889
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-071-SB17-001离心泵采购技术要求文件.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YFJD2-071-SB17-001离心泵采购技术要求文件.pdf",
+    "category": "泵及泵配件/离心泵/其他离心泵",
+    "file_name": "[非密]YFJD2-071-SB17-001离心泵采购技术要求文件.pdf",
+    "similarity_score": 0.8546948730945587
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YTD3030S-0130502-GG03-B+废液输送泵技术规格书.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YTD3030S-0130502-GG03-B+废液输送泵技术规格书.pdf",
+    "category": "泵及泵配件/离心泵/其他离心泵",
+    "file_name": "[非密]YTD3030S-0130502-GG03-B+废液输送泵技术规格书.pdf",
+    "similarity_score": 0.8394086360931396
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YTDS-420600-GG1-C+一次冷却水泵技术规格书.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YTDS-420600-GG1-C+一次冷却水泵技术规格书.pdf",
+    "category": "泵及泵配件/离心泵/其他离心泵",
+    "file_name": "[非密]YTDS-420600-GG1-C+一次冷却水泵技术规格书.pdf",
+    "similarity_score": 0.853088915348053
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]YTDS-430102-GG1-B+气体复合系统喷射泵技术规格书.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]YTDS-430102-GG1-B+气体复合系统喷射泵技术规格书.pdf",
+    "category": "泵及泵配件/其他泵及泵配件/其他各种泵",
+    "file_name": "[非密]YTDS-430102-GG1-B+气体复合系统喷射泵技术规格书.pdf",
+    "similarity_score": 0.8372273743152618
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]ZDYF-1-005工质泵采购技术要求.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]ZDYF-1-005工质泵采购技术要求.pdf",
+    "category": "金属加工机械及配件/机床附件/组合工艺装备",
+    "file_name": "[非密]ZDYF-1-005工质泵采购技术要求.pdf",
+    "similarity_score": 0.806755006313324
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]主泵电磁提升装置样件-采购规格书.doc": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]主泵电磁提升装置样件-采购规格书.doc",
+    "category": "泵及泵配件/其他泵及泵配件/其他各种泵配件",
+    "file_name": "[非密]主泵电磁提升装置样件-采购规格书.doc",
+    "similarity_score": 0.8455850183963776
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]主泵监控系统专用测试系统采购规格书.doc": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]主泵监控系统专用测试系统采购规格书.doc",
+    "category": "通用仪器仪表/校验仪器及设备/校验仪器及设备附件",
+    "file_name": "[非密]主泵监控系统专用测试系统采购规格书.doc",
+    "similarity_score": 0.8547235727310181
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]田湾核电站1-2号机组主给水系统增容研究项目离心泵采购技术规格书.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]田湾核电站1-2号机组主给水系统增容研究项目离心泵采购技术规格书.pdf",
+    "category": "泵及泵配件/离心泵/单级离心泵",
+    "file_name": "[非密]田湾核电站1-2号机组主给水系统增容研究项目离心泵采购技术规格书.pdf",
+    "similarity_score": 0.841614305973053
+  },
+  "/mnt/d/pythonproject/ai-classify/测试/[非密]高扬程给水泵采购技术要求.pdf": {
+    "original_path": "/mnt/d/pythonproject/ai-classify/测试/[非密]高扬程给水泵采购技术要求.pdf",
+    "category": "泵及泵配件/离心泵/多级离心泵",
+    "file_name": "[非密]高扬程给水泵采购技术要求.pdf",
+    "similarity_score": 0.8287820816040039
   }
 }

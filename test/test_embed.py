@@ -29,7 +29,7 @@ collection = chroma_client.get_collection(
 )
 
 # 查询测试
-query_text = "[非密]QBGCA-CG-052屏蔽泵采购技术要求.pdf"
+query_text = "凝水泵"
 n_results = 5
 
 print(f"查询文本: {query_text}")

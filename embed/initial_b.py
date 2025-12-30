@@ -105,9 +105,7 @@ def fetch_materials_batch(connection, offset, limit):
 
 
 def build_document(material):    
-    material_name = material.get('material_name', '')
-    small_class_code = material.get('small_class_code', '')
-    return f"{material_name} {small_class_code}".strip()
+    return material['material_name']+','+material['big_class_name']+','+material['middle_class_name']+','+material['small_class_name']
 
 
 def build_metadata(material):
@@ -165,10 +163,8 @@ def process_batch(collection, materials):
     for material in materials:
         # 构建唯一ID
         material_code = material.get('id', '')
-        material_name = material.get('material_name', '')
-        small_class_code = material.get('small_class_code', '')
-        if not material_code or not material_name or not small_class_code:
-            continue  # 跳过
+        if not material_code:
+            continue  # 跳过没有编码的材料
         
         material_id = f"material_{material_code}"
         
